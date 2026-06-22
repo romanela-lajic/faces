@@ -97,7 +97,7 @@ def train(cfg, seed, sparsity):
         logger = setup_logger(output)
 
         logger.info("Initializing datasets...")
-        trainset, valid_set, test_set = full_celeba_get_datasets('../Bias_testing/data/celeba', return_test=True)
+        trainset, valid_set, test_set = full_celeba_get_datasets(cfg.data_path, return_test=True)
         train_loader = DataLoader(trainset, batch_size=cfg.batch_size, shuffle=True, num_workers=4, pin_memory=True, drop_last=True)
         val_loader = DataLoader(valid_set, batch_size=cfg.batch_size, shuffle=False, num_workers=4, pin_memory=True)
         test_loader = DataLoader(test_set, batch_size=cfg.batch_size, shuffle=False, num_workers=4, pin_memory=True)
