@@ -11,7 +11,7 @@ This repository contains the official implementation of the paper:
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Due to their promising performance, Vision Transformers (ViTs) are increasingly being incorporated into various biometric solutions, particularly in the domain of face analysis. However, their size and computational expense remain a significant challenge for deployment on resource-constrained devices. 
 
@@ -19,7 +19,7 @@ Due to their promising performance, Vision Transformers (ViTs) are increasingly 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -52,7 +52,7 @@ The code has been developed and tested with **Python 3.9** and **PyTorch 2.2.0**
      ```bash
      python attributes_tf.py --eval
 
-## ✍️ Citation
+##  Citation
 ## If you use this code or models in your research, please cite our paper:
 
 
