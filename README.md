@@ -2,7 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-ScienceDirect-blue.svg)](https://www.sciencedirect.com/science/article/pii/S2405959526000299)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.icte.2026.02.008-B31B1B.svg)](https://doi.org/10.1016/j.icte.2026.02.008)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
 
 This repository contains the official implementation of the paper:  
 **"[FACES: Facial analysis with compressed efficient systems](https://www.sciencedirect.com/science/article/pii/S2405959526000299)"** (ICT Express, 2026).
