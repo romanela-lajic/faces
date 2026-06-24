@@ -23,7 +23,7 @@ Due to their promising performance, Vision Transformers (ViTs) are increasingly 
 
 ### Prerequisites
 
-The code has been developed and tested with **Python 3.9** and **PyTorch 2.2.0** (CUDA 12.1). We recommend using [Anaconda](https://www.anaconda.com/) to manage your environment.
+The code has been developed and tested with **Python 3.9** and **PyTorch 2.2.0** (CUDA 12.1). 
 
 ### Installation
 
